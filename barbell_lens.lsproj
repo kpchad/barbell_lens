@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1515547790138",
+    "lastChanged": "1515560442651",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -23,32 +23,100 @@
             "collapsedList": [
                 [
                     [
+                        "Elephant [REMOVE_ME]"
+                    ],
+                    [
                         "Elephant [REMOVE_ME]",
                         "Animations"
                     ],
                     [
                         "Elephant [REMOVE_ME]",
-                        "Materials"
+                        "Materials",
+                        "elephant_pbr"
                     ],
                     [
                         "Elephant [REMOVE_ME]",
-                        "Meshes"
+                        "Meshes",
+                        "elephant_med"
                     ],
                     [
                         "Elephant [REMOVE_ME]",
-                        "Textures"
+                        "Textures",
+                        "elephant_med_01_defaultMat1_base"
+                    ],
+                    [
+                        "Elephant [REMOVE_ME]",
+                        "Textures",
+                        "elephant_med_01_defaultMat1_materialParams"
+                    ],
+                    [
+                        "Elephant [REMOVE_ME]",
+                        "Textures",
+                        "elephant_med_01_defaultMat1_normal"
                     ],
                     [
                         "Materials"
                     ],
                     [
+                        "Materials",
+                        "ground_grid"
+                    ],
+                    [
+                        "Materials",
+                        "matte_shadow"
+                    ],
+                    [
+                        "Materials",
+                        "touch_collision"
+                    ],
+                    [
                         "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "ground_grid"
+                    ],
+                    [
+                        "Meshes",
+                        "plane"
+                    ],
+                    [
+                        "Meshes",
+                        "touch_collision"
                     ],
                     [
                         "Scripts"
                     ],
                     [
                         "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "base"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid_mask"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_diff"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_spec"
                     ],
                     [
                         "barbell"
@@ -59,7 +127,162 @@
                     ],
                     [
                         "barbell",
+                        "Materials",
+                        "mat0"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat1"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat10"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat11"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat12"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat13"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat14"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat15"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat16"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat17"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat18"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat19"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat2"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat20"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat21"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat22"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat23"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat24"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat25"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat3"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat4"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat5"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat6"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat7"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat8"
+                    ],
+                    [
+                        "barbell",
+                        "Materials",
+                        "mat9"
+                    ],
+                    [
+                        "barbell",
                         "Meshes"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_1"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_2"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_3"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_4"
+                    ],
+                    [
+                        "barbell",
+                        "Meshes",
+                        "_5"
                     ]
                 ]
             ]
@@ -68,7 +291,6 @@
             "collapsedList": [
                 [
                     "1509398098262568:84736",
-                    "1515547563433332:18420",
                     "1515547564288248:18604"
                 ]
             ]
@@ -79,7 +301,7 @@
             "hints": [
                 "lens_hint_tap"
             ],
-            "lens": "Tap"
+            "lens": "Get Fit"
         },
         "InspectorUiComponent": {
             "collapsedList": [
@@ -2493,6 +2715,16 @@
                     "flags": "1",
                     "type": "3",
                     "subtype": "0"
+                },
+                {
+                    "resId": "863",
+                    "uid": "1515556010422083:36867",
+                    "name": "\/Resources\/Resource863.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
                 }
             ]
         },
@@ -3411,6 +3643,46 @@
                                         "extension": ""
                                     },
                                     {
+                                        "name": "mat2",
+                                        "resourceId": "806",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat3",
+                                        "resourceId": "807",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat4",
+                                        "resourceId": "808",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat5",
+                                        "resourceId": "809",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat6",
+                                        "resourceId": "810",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat7",
+                                        "resourceId": "811",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat8",
+                                        "resourceId": "812",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "mat9",
+                                        "resourceId": "813",
+                                        "extension": ""
+                                    },
+                                    {
                                         "name": "mat10",
                                         "resourceId": "814",
                                         "extension": ""
@@ -3461,11 +3733,6 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "mat2",
-                                        "resourceId": "806",
-                                        "extension": ""
-                                    },
-                                    {
                                         "name": "mat20",
                                         "resourceId": "824",
                                         "extension": ""
@@ -3493,41 +3760,6 @@
                                     {
                                         "name": "mat25",
                                         "resourceId": "829",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat3",
-                                        "resourceId": "807",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat4",
-                                        "resourceId": "808",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat5",
-                                        "resourceId": "809",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat6",
-                                        "resourceId": "810",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat7",
-                                        "resourceId": "811",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat8",
-                                        "resourceId": "812",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "mat9",
-                                        "resourceId": "813",
                                         "extension": ""
                                     }
                                 ]
@@ -3564,7 +3796,13 @@
                                 ]
                             }
                         ],
-                        "resources": ""
+                        "resources": [
+                            {
+                                "name": "PlayAnimation.js",
+                                "resourceId": "863",
+                                "extension": "js"
+                            }
+                        ]
                     }
                 ],
                 "resources": ""
@@ -3653,6 +3891,10 @@
                 {
                     "id": "860",
                     "path": "barbell\/Meshes\/_5.mesh"
+                },
+                {
+                    "id": "863",
+                    "path": "barbell\/PlayAnimation.js"
                 }
             ]
         }
