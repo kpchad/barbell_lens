@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1515560442651",
+    "lastChanged": "1515865212955",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -291,6 +291,7 @@
             "collapsedList": [
                 [
                     "1509398098262568:84736",
+                    "1515547563433332:18420",
                     "1515547564288248:18604"
                 ]
             ]
@@ -2725,6 +2726,40 @@
                     "flags": "1",
                     "type": "4",
                     "subtype": "0"
+                },
+                {
+                    "resId": "864",
+                    "uid": "1515864728256587:28100",
+                    "name": "\/Resources\/Resource864.png",
+                    "sourceFilePath": "C:\/Users\/Kyle\/Documents\/Snap\/2018_sprite.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "865",
+                    "uid": "1515864734654938:28169",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "867",
+                    "uid": "1515864734803930:28192",
+                    "name": "\/Resources\/Resource867",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
                 }
             ]
         },
@@ -2739,12 +2774,15 @@
                 "6": "1515547564289000:18612",
                 "7": "1515547564289115:18618",
                 "8": "1515547564289674:18624",
-                "9": "1515547564290070:18630"
+                "9": "1515547564290070:18630",
+                "10": "1515864734570387:28111",
+                "11": "1515864734660865:28176",
+                "12": "1515864734667433:28177"
             }
         },
         "LayerComponent": {
             "nextLayerId": "3",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "1",
@@ -3805,7 +3843,18 @@
                         ]
                     }
                 ],
-                "resources": ""
+                "resources": [
+                    {
+                        "name": "2018_sprite",
+                        "resourceId": "864",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "865",
+                        "extension": ""
+                    }
+                ]
             },
             "publicAssets": [
                 {
@@ -3895,6 +3944,10 @@
                 {
                     "id": "863",
                     "path": "barbell\/PlayAnimation.js"
+                },
+                {
+                    "id": "864",
+                    "path": "2018_sprite.png"
                 }
             ]
         }
