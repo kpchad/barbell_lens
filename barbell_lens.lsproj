@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1515897412664",
+    "lastChanged": "1515912263504",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -117,9 +117,6 @@
                     [
                         "Textures",
                         "marvista_spec"
-                    ],
-                    [
-                        "barbell"
                     ],
                     [
                         "barbell",
@@ -291,7 +288,6 @@
             "collapsedList": [
                 [
                     "1509398098262568:84736",
-                    "1515547563433332:18420",
                     "1515547564288248:18604",
                     "1515864734570387:28111"
                 ]
@@ -2781,6 +2777,16 @@
                     "flags": "1",
                     "type": "5",
                     "subtype": "0"
+                },
+                {
+                    "resId": "873",
+                    "uid": "1515907702875804:37819",
+                    "name": "\/Resources\/Resource873.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
                 }
             ]
         },
@@ -3856,13 +3862,7 @@
                                 ]
                             }
                         ],
-                        "resources": [
-                            {
-                                "name": "PlayAnimation.js",
-                                "resourceId": "863",
-                                "extension": "js"
-                            }
-                        ]
+                        "resources": ""
                     }
                 ],
                 "resources": [
@@ -3885,6 +3885,16 @@
                         "name": "pump_up_clip",
                         "resourceId": "869",
                         "extension": "mp3"
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "873",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "PlayAnimation",
+                        "resourceId": "863",
+                        "extension": "js"
                     }
                 ]
             },
@@ -3975,7 +3985,7 @@
                 },
                 {
                     "id": "863",
-                    "path": "barbell\/PlayAnimation.js"
+                    "path": "PlayAnimation.js"
                 },
                 {
                     "id": "864",
@@ -3988,6 +3998,10 @@
                 {
                     "id": "869",
                     "path": "pump_up_clip.mp3"
+                },
+                {
+                    "id": "873",
+                    "path": "Plane.mesh"
                 }
             ]
         }
