@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1515865212955",
+    "lastChanged": "1515897412664",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -292,7 +292,8 @@
                 [
                     "1509398098262568:84736",
                     "1515547563433332:18420",
-                    "1515547564288248:18604"
+                    "1515547564288248:18604",
+                    "1515864734570387:28111"
                 ]
             ]
         },
@@ -2760,6 +2761,26 @@
                     "flags": "3",
                     "type": "2",
                     "subtype": "0"
+                },
+                {
+                    "resId": "868",
+                    "uid": "1515894829481199:31525",
+                    "name": "\/Resources\/Resource868.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "869",
+                    "uid": "1515897372867224:49608",
+                    "name": "\/Resources\/Resource869.mp3",
+                    "sourceFilePath": "C:\/Users\/Kyle\/Downloads\/pump_up_clip.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
                 }
             ]
         },
@@ -2777,7 +2798,8 @@
                 "9": "1515547564290070:18630",
                 "10": "1515864734570387:28111",
                 "11": "1515864734660865:28176",
-                "12": "1515864734667433:28177"
+                "12": "1515864734667433:28177",
+                "13": "1515894696751086:31491"
             }
         },
         "LayerComponent": {
@@ -3853,6 +3875,16 @@
                         "name": "Orthographic Camera Output",
                         "resourceId": "865",
                         "extension": ""
+                    },
+                    {
+                        "name": "playMusic",
+                        "resourceId": "868",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "pump_up_clip",
+                        "resourceId": "869",
+                        "extension": "mp3"
                     }
                 ]
             },
@@ -3948,6 +3980,14 @@
                 {
                     "id": "864",
                     "path": "2018_sprite.png"
+                },
+                {
+                    "id": "868",
+                    "path": "playMusic.js"
+                },
+                {
+                    "id": "869",
+                    "path": "pump_up_clip.mp3"
                 }
             ]
         }
