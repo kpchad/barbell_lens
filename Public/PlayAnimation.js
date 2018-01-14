@@ -8,7 +8,10 @@
 
 function liftBarbell(eventData) {
     // calculate the new height of the Scene Object and store it in newY
-    var newY = (Math.sin(getTime() * script.speed) * script.range)+(script.range/2);
+    var newY = (Math.sin(getTime() * script.speed) * script.range)+(script.range*0.8);
+    if (newY < 0) {
+        newY = 0;
+    }
 
     // set the new local position of the Scene Object to [0,newY,0].
     script.getSceneObject().getTransform().setLocalPosition(new vec3(0, newY, 0));
